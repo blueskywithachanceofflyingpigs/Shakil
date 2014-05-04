@@ -13,7 +13,7 @@ We'll use a method in our ruby file to simulate the interaction with this creatu
 
 ### How should these behaviors map to code?
 
-* Starting a conversation with the stupid dog implies running the program via the command line
+* Starting a conversation with the silly dog implies running the program via the command line
 * Having an endless conversation with Shakil implies a loop in the program
 * Speaking to Shakil implies reading a line of user input with the gets method
 * Shakil responding to you (usually by barking) implies the program printing a line using the puts method
